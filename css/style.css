@@ -60,6 +60,7 @@ input, select {
     background-color: #fdfdfd7e;
     padding: 1.5rem;
     border-radius: 15px;
+    margin-top: 200px;
 }
 
 .todo-container header {
