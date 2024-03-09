@@ -150,3 +150,7 @@ input, select {
     text-decoration: line-through;
     font-style: italic;
 }
+
+.hide.hide {
+    display: none !important;
+}
