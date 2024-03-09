@@ -68,6 +68,10 @@ input, select {
     border-bottom: 1px solid #cccccc4b;
 }
 
+#todo-input {
+    flex: 1;
+}
+
 /* Todo Form */
 #todo-form, #edit-form {
     margin-bottom: 0.5rem;
